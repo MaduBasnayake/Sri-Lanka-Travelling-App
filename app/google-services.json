@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267660574690",
+    "project_id": "srilankatravelingapp-b46ac",
+    "storage_bucket": "srilankatravelingapp-b46ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267660574690:android:76ea4bb7efd07649fe83bb",
+        "android_client_info": {
+          "package_name": "com.example.srilankatravelingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267660574690-ubcks9ltka0oeolgieda8cim39b1kmhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV14-a8debiOnurVOddA1i_n-9nHLL_iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267660574690-ubcks9ltka0oeolgieda8cim39b1kmhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

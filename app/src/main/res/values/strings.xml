@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SrilankaTravelingAPP</string>
+    <!-- Strings for On Boarding Screen -->
+    <!--Titles-->
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Choose Location</string>
+    <string name="third_slide_title">Let\'s Travelling</string>
+    <string name="fourth_slide_title">Find Destination</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">This travel guide app includes a location search feature, enabling users to quickly find information and recommendations for their current or desired location. </string>
+    <string name="second_slide_desc">This travel guide app allows users to choose their desired location, providing information and recommendations for that destination. It also supports online maps for navigation.</string>
+    <string name="third_slide_desc">we will helps you plan your trip with insider tips, local recommendations, and must-see attractions.</string>
+    <string name="fourth_slide_desc">Discover the beauty of Sri Lanka by finding your perfect destination, from beaches to temples and everything in between.</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+    <string name="logo_name">Get A Way</string>
+    <string name="categories">Categories</string>
+    <string name="search_text">Search....</string>
+    <string name="view_all">View All</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_sinharaja_map">SinharajaMap</string>
+</resources>
